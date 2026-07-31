@@ -1,0 +1,2 @@
+nome = input('Digite seu nome por gentileza:') #input = vai mostrar para o usuário o que colocamos dentro dele 
+print('É um prazer te conhecer, {}!'.format(nome)) #o {} vai ser substituido pelo o que passamos para ele, nesse caso é o nome, é captado pelo simbolo {} dentro das aspas para que saiba onde deve ser colocado
